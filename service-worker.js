@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.d7107a3d4a0b2b8eea0a51bfdb83a7fd.js"
+  "precache-manifest.7c5a334f4386ba724aadbea55a5962f5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tomato2"});
